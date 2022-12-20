@@ -2,3 +2,39 @@
 # Last updated time: 16:18
 
 grabo.bg
+
+!--- Whitelist rules ---!
+@@/advert-$domain=advert-advance.com
+@@/advert.$domain=alein.org
+~bg-ikonomika.com###banner_ad
+@@||bivol.bg/wp-content/uploads/2016/01/*
+@@cdn.economedia.bg/minc/$domain=dnevnik.bg
+@@||conquiztador.bg/client_pre_frame.php
+@@||contextweb.com^$domain=bg-gledai.tv
+@@||crackmywifi.blogspot.bg^$document
+@@||dama.bg/assets/dev.dama.bg/js/adx.js
+@@|https://$script,third-party,xmlhttprequest,domain=openload.co
+@@imasdk.googleapis.com$domain=news.bg|lifestyle.bg|topsport.bg
+@@||ndt1.com/images/articles/*
+~noshtuvki.burkan.info###adbody
+@@obiavi.data.bg/styles/ads.css
+@@||olx.bg/ajax/ad/offer/
+@@||olx.bg/ajax/ad/togglefollow/
+~olx.bg###newAd
+@@/pagead/conversion.$domain=news.bg|lifestyle.bg|topsport.bg
+@@||pozvanete.bg/public/upload/ads/
+~prodavalnik.com###newAd
+@@/pubads_$domain=news.bg|lifestyle.bg|topsport.bg
+@@||puhtml.com$domain=bg-gledai.tv
+~rbb.bg###Ads
+@@s5emagst.akamaized.net/assets/bg/js/ads-*
+@@/securepubads.$domain=news.bg|lifestyle.bg|topsport.bg
+@@||seirsanduk.com^$document
+@@||seirsanduk.com/ad-server.js
+@@||serialmaniq.com
+@@slotbg.com/images/adds/*
+@@||sportal.bg/uploads/video_advertising/
+@@||subsmania.info
+@@||webnews.bg/assets/js/ads.js$script
+@@||webnews.bg/assets/js/min/dfp.js$script,domain=news.bg|lifestyle.bg|topsport.bg
+@@||zopplus.com/wp-content/themes/zop/js/advertisement.js

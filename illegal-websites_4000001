@@ -1,5 +1,4 @@
-# Last updated date: 19-12-2022
-# Last updated time: 16:18
+# Last updated date: 18-01-2022
 
 0.0.0.0 zamunda.net
 0.0.0.0 arenabg.com
@@ -27,3 +26,4 @@
 0.0.0.0 thinkific.com
 0.0.0.0 triumphealth.com
 0.0.0.0 ipfs.io
+0.0.0.0 .*\.cf-ipfs.com
